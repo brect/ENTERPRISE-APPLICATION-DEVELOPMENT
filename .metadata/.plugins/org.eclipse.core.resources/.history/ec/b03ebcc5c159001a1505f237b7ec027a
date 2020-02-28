@@ -1,0 +1,29 @@
+package br.com.fiap.jpa.teste;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class AtualizaTeste {
+
+	
+	public static void main(String[] args) {
+		
+
+		//criar fabrica de entity manager
+		EntityManagerFactory entityManegerFactory = Persistence.createEntityManagerFactory("oracle");
+		
+		//criar o entity manager
+		EntityManager entityManager = entityManegerFactory.createEntityManager();
+		
+		//criar um objeto funcionario com um codigo existente no bd
+		
+		//atualizar
+		
+		//commit
+		
+		//fechar as paradas
+		
+	}
+	
+}

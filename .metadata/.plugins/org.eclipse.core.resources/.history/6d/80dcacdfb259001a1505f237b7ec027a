@@ -1,0 +1,28 @@
+package br.com.fiap.jpa.entity;
+
+import java.sql.Blob;
+import java.util.Calendar;
+
+
+@Entity
+@Table(name="TB_DEPARTAMENTO")
+//sequenceName -> nome da sequencia no banco de dados
+//name -> nome da sequencia no java, utilizado no @GeneratedValue
+//allocationSize -> incremento
+@SequenceGenerator(sequenceName = "SQ_TB_DEPARTAMENTO", name="depart", allocationSize = 1)
+public class Departamento {
+
+	@Id
+	@Column(name="nr_matricula")
+	@GeneratedValue(generator = "func", strategy = GenerationType.SEQUENCE)
+	private int codigo;
+	
+	private String nome;
+	private Calendar dataCriacao;
+	private int centroDeCusto;
+	private String segmento;
+	private Blob fotoDiretor;
+	
+	
+	
+}

@@ -1,0 +1,25 @@
+package br.com.fiap.jpa.teste;
+
+public class RefreshTeste {
+	
+	public static void main(String[] args) {
+		//criar a fabrica
+		
+		//criar o entity manager
+		
+		//pesquisar em funcionario
+		
+		//exibir o nome
+		
+		//setar o nome
+		
+		//exibir o nome
+		
+		//fazer o refresh
+		
+		//exibir o nome
+		
+		//fechar as paradas
+	}
+
+}
