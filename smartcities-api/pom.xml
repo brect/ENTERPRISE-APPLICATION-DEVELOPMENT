@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>04-JPA-Introducao</groupId>
-	<artifactId>04-JPA-Introducao</artifactId>
+	<groupId>05-JPA-API</groupId>
+	<artifactId>05-JPA-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
@@ -29,13 +29,7 @@
 			<artifactId>jdbc-driver</artifactId>
 			<version>12</version>
 			<scope>system</scope>
-			<systemPath>D:/ojdbc8.jar</systemPath>
+			<systemPath>/home/blimas/Documentos/Fiap/Java/ojdbc8.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
- 
-
-
-
-
-
