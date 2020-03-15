@@ -63,6 +63,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="DimDim"/>
 			<item value="smartcities-api"/>
 			<item value="05-JPA-Api"/>
 			<item value="asdasd"/>
@@ -72,6 +73,7 @@
 			<item value="asdasd"/>
 		</list>
 		<list key="artifactId">
+			<item value="DimDim"/>
 			<item value="smartcities-api"/>
 			<item value="05-JPA-Api"/>
 			<item value="sdasd"/>

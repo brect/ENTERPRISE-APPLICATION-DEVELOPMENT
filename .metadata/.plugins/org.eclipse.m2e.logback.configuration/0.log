@@ -3066,3 +3066,108 @@ Caused by: org.eclipse.emf.ecore.xmi.FeatureNotFoundException: Feature 'project'
 2020-03-13 23:15:51,471 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
 2020-03-13 23:15:51,472 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-03-13 23:15:51,473 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:11:06,335 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-14 22:13:41,170 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:13:41,189 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:13:41,190 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:13:41,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:45:34,854 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:45:34,855 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:45:34,856 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:45:34,856 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:46:15,665 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:46:15,665 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:46:15,666 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:46:15,666 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:54:38,746 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:54:38,747 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:54:38,748 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:54:38,748 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:55:52,871 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:55:52,872 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:55:52,872 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:55:52,872 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:57:26,245 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:57:26,246 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:57:26,247 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:57:26,247 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:57:34,059 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:57:34,059 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:57:34,060 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:57:34,060 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 22:59:34,533 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:59:34,533 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 22:59:34,534 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 22:59:34,534 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:02:20,134 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:02:20,134 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:02:20,135 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:02:20,136 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:03:09,976 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:03:09,977 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:03:09,978 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:03:09,978 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:05:37,753 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:05:37,753 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:05:37,754 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:05:37,754 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:23:29,272 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:23:29,272 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:23:29,274 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:23:29,274 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:24:38,018 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:24:38,018 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:24:38,019 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:24:38,019 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:25:34,998 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:25:34,999 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:25:35,000 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:25:35,000 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:27:00,836 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:27:00,836 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:27:00,837 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:27:00,837 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:27:34,068 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:27:34,069 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:27:34,069 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:27:34,069 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:30:21,036 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:30:21,038 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:30:21,040 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:30:21,041 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:32:03,003 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:32:03,003 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:32:03,004 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:32:03,004 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:33:12,677 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:33:12,678 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:33:12,680 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:33:12,680 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:36:05,896 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:36:05,897 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:36:05,897 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:36:05,898 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:36:41,493 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:36:41,493 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:36:41,494 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:36:41,494 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:40:18,370 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:40:18,371 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:40:18,371 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:40:18,371 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:40:36,881 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:40:36,882 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:40:36,882 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:40:36,883 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:41:15,630 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:41:15,630 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:41:15,631 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:41:15,631 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:41:24,433 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:41:24,433 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:41:24,434 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:41:24,434 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-03-14 23:42:06,772 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:42:06,772 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-03-14 23:42:06,773 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-14 23:42:06,773 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources

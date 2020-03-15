@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="hibernate.hbm2dll.auto"/>
 			<item value="prod"/>
 			<item value="i"/>
 			<item value="getTransaction"/>

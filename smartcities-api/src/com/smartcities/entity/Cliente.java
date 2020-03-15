@@ -1,5 +1,7 @@
 package com.smartcities.entity;
 
+import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -11,7 +13,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "tb_cliente")
 @SequenceGenerator(name = "cliente", sequenceName = "sq_tb_cliente", allocationSize = 1)
-public class Cliente {
+public class Cliente implements Serializable{
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.SEQUENCE, generator="cliente")
