@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.persistence.Enumerated"/>
     <fullyQualifiedTypeName name="javax.persistence.EnumType"/>
     <fullyQualifiedTypeName name="br.com.fiap.help.EntityManeger"/>
     <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
@@ -34,8 +33,31 @@
     <fullyQualifiedTypeName name="smartcities.dao.GenericDAO"/>
     <fullyQualifiedTypeName name="smartcities.entity.Estabelecimento"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="br.com.fiap.bean.Cliente"/>
+    <fullyQualifiedTypeName name="java.rmi.Remote"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="com.smartcities.service.ClienteServiceImpl"/>
+    <fullyQualifiedTypeName name="java.rmi.server.UnicastRemoteObject"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.rmi.registry.Registry"/>
+    <fullyQualifiedTypeName name="java.rmi.registry.LocateRegistry"/>
+    <fullyQualifiedTypeName name="com.smartcities.service.ClienteService"/>
+    <fullyQualifiedTypeName name="java.io.IOError"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="org.hibernate.loader.custom.ScalarResultColumnProcessor"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.smartcities.socket.ServerSocket"/>
+    <fullyQualifiedTypeName name="com.smartcities.entity.Cliente"/>
     <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
     <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
     <fullyQualifiedTypeName name="com.smartcities.dao.ClienteDAO"/>
-    <fullyQualifiedTypeName name="com.smartcities.entity.Cliente"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
 </qualifiedTypeNameHistroy>
