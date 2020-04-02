@@ -63,6 +63,8 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Exercicio02-DesiginPatterns"/>
+			<item value="06-JPA-DesingPatterns"/>
 			<item value="DimDim"/>
 			<item value="smartcities-api"/>
 			<item value="05-JPA-Api"/>
@@ -73,6 +75,8 @@
 			<item value="asdasd"/>
 		</list>
 		<list key="artifactId">
+			<item value="Exercicio02-DesiginPatterns"/>
+			<item value="06-JPA-DesingPatterns"/>
 			<item value="DimDim"/>
 			<item value="smartcities-api"/>
 			<item value="05-JPA-Api"/>

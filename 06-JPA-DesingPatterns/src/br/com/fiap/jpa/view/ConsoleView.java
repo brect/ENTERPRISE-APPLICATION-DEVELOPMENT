@@ -16,39 +16,37 @@ public class ConsoleView {
 	public static void main(String[] args) {
 
 		EntityManagerFactory entityManagerFactory = EntityManagerFactorySingleton.getInstance();
-		
 		EntityManager entityManager = entityManagerFactory.createEntityManager();
-		
 		
 		PedidoDAO pedidoDAO = new PedidoDAOImpl(entityManager);
 		Pedido pedido = new Pedido("Arroz", 10, 1, Calendar.getInstance());
-		
-		try {
-			pedidoDAO.cadastrar(pedido);
-			pedidoDAO.commit();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+//		
+//		try {
+//			pedidoDAO.cadastrar(pedido);
+//			pedidoDAO.commit();
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
 		
 		//pesquisar
 		Pedido buscar = pedidoDAO.buscar(pedido.getCodigo());
 		System.out.println(buscar.getProduto());
 		
-		//atualizar
-		buscar.setProduto("Feijao");
-		try {
-			pedidoDAO.atualizar(buscar);
-			pedidoDAO.commit();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-		
-		try {
-			pedidoDAO.deletar(buscar.getCodigo());
-			pedidoDAO.commit();
-		} catch (CommitException | ResourceNotFoundException e) {
-			e.printStackTrace();
-		}
+//		//atualizar
+//		buscar.setProduto("Feijao");
+//		try {
+//			pedidoDAO.atualizar(buscar);
+//			pedidoDAO.commit();
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
+//		
+//		try {
+//			pedidoDAO.deletar(buscar.getCodigo());
+//			pedidoDAO.commit();
+//		} catch (CommitException | ResourceNotFoundException e) {
+//			e.printStackTrace();
+//		}
 		
 		entityManager.close();
 		entityManagerFactory.close();

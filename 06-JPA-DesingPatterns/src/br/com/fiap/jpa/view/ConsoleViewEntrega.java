@@ -10,15 +10,13 @@ import br.com.fiap.jpa.singleton.EntityManagerFactorySingleton;
 
 public class ConsoleViewEntrega {
 
-	
-	public static void main(String[] args) {
 
+	public static void main(String[] args) {
 		EntityManagerFactory entityManagerFactory = EntityManagerFactorySingleton.getInstance();
 		EntityManager entityManager = entityManagerFactory.createEntityManager();
 		
-		GenericDAO<Entrega, Integer> dao = new GenericDAOImpl<Entrega, Integer>(entityManager);
+		GenericDAO<Entrega, Integer> dao = new GenericDAOImpl<Entrega, Integer>(entityManager){};
 
-		
 		try {
 			dao.cadastrar(new Entrega());
 			dao.commit();

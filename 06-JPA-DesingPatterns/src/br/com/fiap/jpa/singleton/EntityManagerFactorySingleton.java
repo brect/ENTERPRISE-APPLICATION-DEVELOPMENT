@@ -13,6 +13,7 @@ public class EntityManagerFactorySingleton {
 		
 		if (entityManagerFactory == null) {
 			entityManagerFactory = Persistence.createEntityManagerFactory("oracle");
+//			entityManagerFactory = Persistence.createEntityManagerFactory("mysql");
 		}
 		return entityManagerFactory;
 	}
