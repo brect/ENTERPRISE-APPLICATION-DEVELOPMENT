@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="smartcities.entity.Cliente"/>
-    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
-    <fullyQualifiedTypeName name="smartcities.dao.GenericDAO"/>
-    <fullyQualifiedTypeName name="smartcities.entity.Estabelecimento"/>
-    <fullyQualifiedTypeName name="java.io.OutputStream"/>
-    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
     <fullyQualifiedTypeName name="br.com.fiap.bean.Cliente"/>
@@ -57,7 +49,15 @@
     <fullyQualifiedTypeName name="java.lang.reflect.ParameterizedType"/>
     <fullyQualifiedTypeName name="br.com.fiap.jpa.exception.ResourceNotFoundException"/>
     <fullyQualifiedTypeName name="br.com.fiap.jpa.exception.CommitException"/>
-    <fullyQualifiedTypeName name="br.com.fiap.entity.Veiculo"/>
     <fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAO"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.CorridaDAO"/>
+    <fullyQualifiedTypeName name="br.com.fiap.entity.Corrida"/>
     <fullyQualifiedTypeName name="br.com.fiap.entity.Motorista"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.MotoristaDAO"/>
+    <fullyQualifiedTypeName name="br.com.fiap.entity.Pagamento"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.PagamentoDAO"/>
+    <fullyQualifiedTypeName name="br.com.fiap.entity.Passageiro"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.PassageiroDAO"/>
+    <fullyQualifiedTypeName name="br.com.fiap.entity.Veiculo"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.VeiculoDAO"/>
 </qualifiedTypeNameHistroy>

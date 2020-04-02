@@ -17,5 +17,4 @@ public class EntityManagerFactorySingleton {
 		}
 		return entityManagerFactory;
 	}
-
 }

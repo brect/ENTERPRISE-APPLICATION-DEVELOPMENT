@@ -4822,3 +4822,268 @@ Caused by: org.eclipse.emf.ecore.xmi.FeatureNotFoundException: Feature 'project'
 2020-04-01 22:35:27,400 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/Exercicio02-DesiginPatterns/src/main/resources
 2020-04-01 22:35:27,402 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-04-01 22:35:27,403 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/Exercicio02-DesiginPatterns/src/test/resources
+2020-04-02 19:03:44,516 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-02 19:09:25,379 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:09:25,413 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:09:25,415 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:09:25,416 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:09:41,130 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:09:41,130 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:09:41,132 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:09:41,133 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:14:01,041 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:01,041 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:14:01,043 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:01,043 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:14:08,917 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:08,917 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/main/resources
+2020-04-02 19:14:08,918 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:08,918 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/smartcities-api/src/test/resources
+2020-04-02 19:14:11,929 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:11,929 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:14:11,930 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:11,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:14:27,760 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:27,760 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:14:27,761 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:14:27,762 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:17:33,108 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:17:33,108 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:17:33,109 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:17:33,109 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:20:35,411 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:20:35,412 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:20:35,413 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:20:35,413 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:21:21,147 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:21,147 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:21:21,148 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:21,148 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:21:25,237 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:25,238 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:21:25,238 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:25,238 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:21:41,401 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:41,402 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:21:41,404 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:21:41,405 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:22:48,739 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:22:48,740 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:22:48,741 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:22:48,742 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:23:01,823 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:23:01,824 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:23:01,825 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:23:01,825 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:29:01,819 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:29:01,820 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:29:01,820 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:29:01,821 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:33:47,910 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 05-JPA-API:05-JPA-API:0.0.1-SNAPSHOT @ /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/pom.xml.
+2020-04-02 19:33:50,059 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2020-04-02 19:33:50,795 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2020-04-02 19:33:51,054 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2020-04-02 19:33:54,998 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2020-04-02 19:33:55,608 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:33:55,609 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:33:55,610 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:33:55,610 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:33:56,838 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:33:56,838 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:33:56,840 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:33:56,841 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:33:58,088 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197-sources.jar
+2020-04-02 19:34:17,511 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197-sources.jar
+2020-04-02 19:34:17,719 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:1.4.197
+2020-04-02 19:34:17,927 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:34:17,927 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:34:17,927 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:34:17,928 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:35:25,977 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:35:25,978 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:35:25,980 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:35:25,980 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:37:06,971 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:06,972 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:37:06,973 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:06,973 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:37:10,747 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:10,747 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:37:10,747 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:10,748 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:37:14,402 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:14,403 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:37:14,404 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:37:14,404 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:39:12,145 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:12,146 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:39:12,147 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:12,147 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:39:17,468 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:17,469 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:39:17,469 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:17,469 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:39:25,645 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:25,645 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:39:25,646 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:25,647 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:39:42,303 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:42,303 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:39:42,304 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:39:42,305 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:40:25,919 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:40:25,919 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:40:25,920 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:40:25,921 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:40:33,525 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:40:33,525 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:40:33,526 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:40:33,527 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:41:05,402 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:41:05,403 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:41:05,403 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:41:05,403 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:41:53,901 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:41:53,901 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:41:53,902 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:41:53,902 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:42:23,091 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:42:23,092 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:42:23,093 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:42:23,094 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:43:10,032 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:43:10,032 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:43:10,033 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:43:10,033 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:43:34,388 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:43:34,388 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:43:34,388 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:43:34,389 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:48:05,524 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:48:05,525 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:48:05,526 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:48:05,526 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:49:58,857 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:49:58,857 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:49:58,857 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:49:58,858 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:52:39,511 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:52:39,512 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:52:39,513 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:52:39,514 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:52:51,543 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:52:51,543 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:52:51,544 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:52:51,545 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:53:35,467 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:53:35,468 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:53:35,469 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:53:35,470 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:55:32,886 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:55:32,887 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:55:32,888 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:55:32,888 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:55:57,212 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:55:57,213 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:55:57,214 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:55:57,215 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:57:08,819 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:57:08,819 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:57:08,820 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:57:08,820 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:57:10,146 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:57:10,146 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:57:10,147 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:57:10,147 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 19:58:10,161 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:58:10,161 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 19:58:10,162 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 19:58:10,162 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:03:26,749 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:26,749 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:03:26,750 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:26,751 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:03:38,001 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:38,001 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:03:38,002 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:38,003 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:03:53,538 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:53,539 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:03:53,541 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:03:53,541 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:05:13,887 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:13,887 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:05:13,888 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:13,888 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:05:19,486 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:19,486 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:05:19,487 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:19,487 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:05:30,930 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:30,930 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:05:30,931 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:05:30,931 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:06:07,991 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:07,992 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:06:07,992 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:07,992 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:06:35,882 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:35,882 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:06:35,884 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:35,885 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:06:51,597 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:51,597 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:06:51,598 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:06:51,598 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:09:20,615 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:09:20,615 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:09:20,616 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:09:20,616 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:11:56,802 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:11:56,803 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:11:56,804 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:11:56,804 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:12:02,849 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:12:02,850 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:12:02,852 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:12:02,853 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:12:25,722 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:12:25,722 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:12:25,724 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:12:25,724 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:13:38,756 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:13:38,757 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:13:38,758 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:13:38,758 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:17:08,756 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:17:08,756 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:17:08,758 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:17:08,758 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:19:15,040 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:19:15,041 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:19:15,041 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:19:15,042 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:24:00,760 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:24:00,760 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:24:00,761 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:24:00,762 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:24:40,086 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:24:40,086 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:24:40,087 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:24:40,087 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:25:35,673 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:25:35,673 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:25:35,674 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:25:35,675 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:26:11,970 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:26:11,971 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:26:11,972 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:26:11,972 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:26:15,663 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:26:15,664 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:26:15,664 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:26:15,664 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources
+2020-04-02 20:27:22,038 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:27:22,039 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/main/resources
+2020-04-02 20:27:22,040 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-02 20:27:22,040 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/blimas/Documentos/Fiap/Java/workspace/06-JPA-DesingPatterns/src/test/resources

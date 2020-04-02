@@ -21,17 +21,17 @@ public class ConsoleView {
 		PedidoDAO pedidoDAO = new PedidoDAOImpl(entityManager);
 		Pedido pedido = new Pedido("Arroz", 10, 1, Calendar.getInstance());
 //		
-//		try {
-//			pedidoDAO.cadastrar(pedido);
-//			pedidoDAO.commit();
-//		} catch (Exception e) {
-//			e.printStackTrace();
-//		}
+		try {
+			pedidoDAO.cadastrar(pedido);
+			pedidoDAO.commit();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		
 		//pesquisar
-		Pedido buscar = pedidoDAO.buscar(pedido.getCodigo());
-		System.out.println(buscar.getProduto());
-		
+//		Pedido buscar = pedidoDAO.buscar(pedido.getCodigo());
+//		System.out.println(buscar.getProduto());
+//		
 //		//atualizar
 //		buscar.setProduto("Feijao");
 //		try {
