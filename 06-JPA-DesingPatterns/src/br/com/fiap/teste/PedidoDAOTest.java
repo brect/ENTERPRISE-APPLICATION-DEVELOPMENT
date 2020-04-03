@@ -11,12 +11,14 @@ import javax.persistence.Persistence;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import br.com.fiap.dao.PedidoDAO;
 import br.com.fiap.dao.impl.PedidoDAOImpl;
 import br.com.fiap.entity.Pedido;
 import br.com.fiap.jpa.exception.CommitException;
+import br.com.fiap.jpa.exception.ResourceNotFoundException;
 import br.com.fiap.jpa.singleton.EntityManagerFactorySingleton;
 
 class PedidoDAOTest {
@@ -52,11 +54,26 @@ class PedidoDAOTest {
 	}
 	
 	@Test
+	@DisplayName("Deletar com sucesso")
 	void deletarSucessoTeste() {
-		Pedido deletar = pedidoDao.buscar(pedido.getCodigo());
+		try {
+			pedidoDao.deletar(pedido.getCodigo());
+			pedidoDao.commit();
+		} catch (Exception e) {
+			fail("Falha ao testar deletar");
+		}
+		Pedido buscar = pedidoDao.buscar(pedido.getCodigo());
+		assertNull(buscar);
 	}
 	
 	@Test
+	@DisplayName("Deletar com chave inexistente no banco de dados")
+	void deletarChaveInvalidaTeste() {
+		assertThrows(ResourceNotFoundException.class, () -> pedidoDao.deletar(-1));
+	}
+	
+	@Test
+	@DisplayName("Buscar um pedido com sucesso")
 	void buscarSucessoTest() {
 		Pedido buscar = pedidoDao.buscar(pedido.getCodigo());
 		assertNotNull(buscar);
@@ -64,6 +81,7 @@ class PedidoDAOTest {
 	}
 	
 	@Test
+	@DisplayName("Atualizar um pedido com sucesso")
 	void atualizarSucessoTeste() {
 		pedido.setProduto("Xurupita");
 		pedidoDao.atualizar(pedido);
@@ -78,6 +96,7 @@ class PedidoDAOTest {
 	}
 	
 	@Test
+	@DisplayName("Cadastrar um pedido com sucesso")
 	void cadastrarSucessoTeste() {
 		assertNotEquals(0,  pedido.getCodigo());
 	}
